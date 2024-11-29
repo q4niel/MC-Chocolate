@@ -1,17 +1,17 @@
 import os
 import shutil
-from links import Links
-from shell import makeShell
+from data import Data
+from script import generateScripts
 
 def main() -> None:
-    projDir:str = os.path.abspath(__file__)[:-12]
+    Data.init(os.path.abspath(__file__)[:-12])
 
-    if os.path.exists(f"{projDir}/build"):
-        shutil.rmtree(f"{projDir}/build")
-    os.makedirs(f"{projDir}/build")
+    if os.path.exists(f"{Data.ProjectDirectory}/build"):
+        shutil.rmtree(f"{Data.ProjectDirectory}/build")
+    os.makedirs(f"{Data.ProjectDirectory}/build")
 
-    Links.init(projDir)
-    makeShell(projDir)
+    generateScripts()
+
     return
 
 if __name__ == "__main__": main()
