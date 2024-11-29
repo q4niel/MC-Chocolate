@@ -3,7 +3,7 @@ from data import Data
 from typing import List, Callable
 
 def makeShell(name:str, fns:List[Callable]) -> None:
-    with open(f"{Data.ProjectDirectory}/build/{name}-{Data.Version}.sh", "w") as file:
+    with open(f"{Data.ProjectDirectory}/build/{Data.Version}/{name}-{Data.Version}.sh", "w") as file:
         file.write("#!/bin/bash\n\n")
         for fn in fns:
             fn(file)
