@@ -11,9 +11,9 @@ def makeShell(name:str, fns:List[Callable]) -> None:
     return
 
 def generateScripts() -> None:
-    serverCurls:Callable = lambda file: [file.write(f"curl -O {link}\n") for link in Data.Server]
-    clientCurls:Callable = lambda file: [file.write(f"curl -O {link}\n") for link in Data.Client]
-    bothCurls:Callable = lambda file: [file.write(f"curl -O {link}\n") for link in Data.Both]
+    serverCurls:Callable = lambda file: [file.write(f"curl -L -O {link}\n") for link in Data.Server]
+    clientCurls:Callable = lambda file: [file.write(f"curl -L -O {link}\n") for link in Data.Client]
+    bothCurls:Callable = lambda file: [file.write(f"curl -L -O {link}\n") for link in Data.Both]
 
     makeShell("Server", [serverCurls, bothCurls])
     makeShell("Client",[clientCurls, bothCurls])
