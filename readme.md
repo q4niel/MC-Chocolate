@@ -1,5 +1,5 @@
 # MC Chocolate
-A collection of simple batch/shell scripts that help you download and install a selection of Minecraft mods from their official sources. This project doesn't include the mods themselves but automates the process of fetching them from official download sites.
+A collection of simple batch/shell scripts that help you download a selection of Minecraft mods from their official sources. This project doesn't include the mods themselves but automates the process of fetching them from official download sites.
 
 ## Install Guide
 1. **Prerequisites**:
