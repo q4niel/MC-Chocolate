@@ -1,6 +1,8 @@
 {
     "version": "0.0.0-1.21-Fabric",
-    "client": [],
+    "client": [
+        "https://cdn.modrinth.com/data/QdG47OkI/versions/FUZo6yCk/modelfix-1.21-1.6-fabric.jar"
+    ],
     "server": [
         "https://cdn.modrinth.com/data/8oi3bsk5/versions/81gyNzd0/Terralith_1.21.x_v2.5.6.jar",
         "https://cdn.modrinth.com/data/wXiGiyGX/versions/8AR3xCcN/Amplified_Nether_1.21.x_v1.2.6.jar",
@@ -11,6 +13,7 @@
         "https://cdn.modrinth.com/data/AVq17PqV/versions/r96FcZia/LeavesBeGone-v21.0.0-1.21-Fabric.jar",
         "https://cdn.modrinth.com/data/Cnejf5xM/versions/4R1YFTOu/rightclickharvest-fabric-4.3.0%2B1.21.jar",
         "https://cdn.modrinth.com/data/uXeEiQk1/versions/1xFynCV9/tool-trims-mod-v2-2-2a.jar",
+        "https://cdn.modrinth.com/data/cRci7UZp/versions/kiNb5sN8/Crops-Love-Rain-2.1.1.jar",
 
         "https://cdn.modrinth.com/data/9IUlkb2K/versions/VRwAOcqG/cavespiderspawn-1.21.1-1.2.jar",
 
@@ -23,6 +26,7 @@
         "https://cdn.modrinth.com/data/9hx3AbJM/versions/lRBz0IRk/EasyMagic-v21.0.4-1.21-Fabric.jar",
         "https://cdn.modrinth.com/data/Guh4HXen/versions/PSzKjdem/ItemsDisplayed%20-%20v1.3-1.21.jar",
         "https://cdn.modrinth.com/data/AtB5mHky/versions/ACDTHBLF/watut-fabric-1.21.0-1.1.3.jar",
+        "https://cdn.modrinth.com/data/IrrG0G8l/versions/oa649YLo/HorseBuff-1.21-2.1.8.jar",
 
         "https://cdn.modrinth.com/data/ZK4bBM3B/versions/n6jm5bsF/more_babies-fabric-1.21-2.0.0.jar",
         "https://cdn.modrinth.com/data/POQ2i9zu/versions/P8g07TQ8/friendsandfoes-fabric-mc1.21.1-3.0.6.jar",

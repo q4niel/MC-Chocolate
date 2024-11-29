@@ -33,11 +33,15 @@ These scripts download mods from the following **official sources**. Visit the *
     - [Easy Magic](https://modrinth.com/mod/easy-magic/version/v21.0.4-1.21-Fabric)
     - [Items Displayed](https://modrinth.com/mod/items-displayed/version/1.3-1.21)
     - [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to/version/1.21.0-1.1.3)
+    - [Crops Love Rain](https://modrinth.com/mod/crops-love-rain/version/2.1.1)
+    - [Horse Buff](https://modrinth.com/mod/horsebuff/version/2.1.8)
+    - [Model Gap Fix](https://modrinth.com/mod/modelfix/version/1.21-1.6)
 - **Mobs**:
     - [Cave Spider Spawn](https://modrinth.com/mod/cave-spider-spawn/version/1.21.1-1.2-fabric+forge+neo)
     - [More Babies](https://modrinth.com/mod/more-babies/version/2.0.0-1.21-fabric)
     - [Friends & Foes](https://modrinth.com/mod/friends-and-foes/version/fabric-mc1.21.1-3.0.6)
     - [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders/version/XrZVRpEA)
+    - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul/version/LvGcZBEq)
 - **Building**
     - [Connectible Chains](https://modrinth.com/mod/connectiblechains/version/2.4.2+1.21.1)
     - [More Chests Variants](https://modrinth.com/mod/more-chest-variants-lieonlion/version/1.5.6+1.21-Fabric)
