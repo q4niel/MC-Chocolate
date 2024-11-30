@@ -52,6 +52,7 @@ These scripts download mods from the following **official sources**. Visit the *
     - [Elytra Burn](https://github.com/q4niel/Elytra-Burn/releases/tag/0.0.0)
     - [Primitive Progression](https://github.com/q4niel/Primitive-Progression/releases/tag/0.0.0)
     - [Passive Regen](https://github.com/q4niel/Passive-Regen/releases/tag/0.0.0)
+    - [Mending Begone](https://github.com/q4niel/Mending-Begone/releases/tag/0.1.0)
 - **Dependencies**
     - [Fabric API](https://modrinth.com/mod/fabric-api/version/0.102.0+1.21)
     - [Cloth Config API](https://modrinth.com/mod/cloth-config/version/15.0.140+fabric)
