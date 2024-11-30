@@ -48,6 +48,7 @@ These scripts download mods from the following **official sources**. Visit the *
 - **Quirks**
     - [Hunger Fix](https://modrinth.com/mod/hunger-fix/version/0.0.0-1.21-Fabric)
     - [Floral Alchemy](https://modrinth.com/mod/floral-alchemy/version/0.0.0-1.21-Fabric)
+    - [Flourishing Fields](https://modrinth.com/mod/flourishing-fields/version/0.1.0-1.21-Fabric)
     - [Elytra Burn](https://github.com/q4niel/Elytra-Burn/releases/tag/0.0.0)
     - [Primitive Progression](https://github.com/q4niel/Primitive-Progression/releases/tag/0.0.0)
     - [Passive Regen](https://github.com/q4niel/Passive-Regen/releases/tag/0.0.0)
