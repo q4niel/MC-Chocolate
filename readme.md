@@ -1,5 +1,5 @@
 # MC Chocolate
-A collection of simple batch/shell scripts designed to help you download and install a variety of Minecraft assets from their official sources.
+A collection of simple <!---batch/-->shell scripts designed to help you download and install a variety of Minecraft assets from their official sources.
 This project does not include any assets themselves, but automates the process of fetching them from the official download sites.
 
 ## Install Guide
