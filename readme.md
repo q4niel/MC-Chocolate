@@ -69,8 +69,10 @@ These scripts download assets from the following **official sources**. Visit the
     - [Mending Begone](https://github.com/q4niel/Mending-Begone/releases/tag/0.1.1)
     - [Hunger Fix](https://github.com/q4niel/Hunger-Fix/releases/tag/0.1.0)
     - [Nature's Cauldron](https://github.com/q4niel/Natures-Cauldron/releases/tag/0.2.0)
-- **Performance**
+- **Optimization**
     - [Sodium](https://modrinth.com/mod/sodium/version/mc1.21.1-0.6.2-fabric)
+    - [Lithium](https://modrinth.com/mod/lithium/version/mc1.21-0.13.1)
+    - [Entity Culling](https://modrinth.com/mod/entityculling/version/MQuJQtw8)
 - **Dependencies**
     - [Fabric API](https://modrinth.com/mod/fabric-api/version/0.102.0+1.21)
     - [Cloth Config API](https://modrinth.com/mod/cloth-config/version/15.0.140+fabric)
