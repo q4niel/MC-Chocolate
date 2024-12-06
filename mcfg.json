@@ -1,5 +1,6 @@
 {
-    "version": "MC-Chocolate-0.0.0-1.21-Fabric",
+    "name": "MC-Chocolate",
+    "version": "0.0.0-1.21-Fabric",
     "datapacks": [
         "https://cdn.modrinth.com/data/lWDHr9jE/versions/aLQ1otmd/tectonic-datapack-2.4.2.zip",
         "https://cdn.modrinth.com/data/hl5OLM95/versions/1ChFYVG4/Geophilic%20v3.1.4%20f15-57.zip",
