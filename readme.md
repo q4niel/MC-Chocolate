@@ -75,7 +75,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Fabric API](https://modrinth.com/mod/fabric-api/version/0.102.0+1.21)
     - [Cloth Config API](https://modrinth.com/mod/cloth-config/version/15.0.140+fabric)
     - [Text Placeholder API](https://modrinth.com/mod/placeholder-api/version/2.4.1+1.21)
-    - [Architectury API](https://modrinth.com/mod/architectury-api/version/13.0.5+fabric)
+    - [Architectury API](https://modrinth.com/mod/architectury-api/version/13.0.8+fabric)
     - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib/version/v21.0.28-1.21-Fabric)
     - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port/version/v21.0.8-1.21-Fabric)
     - [JamLib](https://modrinth.com/mod/jamlib/version/GuJVwwK1)
