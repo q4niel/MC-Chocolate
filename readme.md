@@ -56,12 +56,19 @@ These scripts download assets from the following **official sources**. Visit the
     - [More Mob Variants](https://modrinth.com/mod/more-mob-variants/version/1.3.1.1)
     - [Variants & Ventures](https://modrinth.com/mod/variants-and-ventures/version/fabric-mc1.21.1-1.0.6)
     - [Boids](https://modrinth.com/mod/boids/version/1.2.3)
+    - [Flourishing Fields](https://github.com/q4niel/Flourishing-Fields/releases/tag/0.2.1)
 - **Building**
     - [Items Displayed](https://modrinth.com/mod/items-displayed/version/1.3-1.21)
     - [Connectible Chains](https://modrinth.com/mod/connectiblechains/version/2.4.2+1.21.1)
 - **Quirks**
     - [Serene Seasons](https://modrinth.com/mod/serene-seasons/version/q8BN28TQ)
     - [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to/version/1.21.0-1.1.3)
+    - [Elytra Burn](https://github.com/q4niel/Elytra-Burn/releases/tag/0.0.1)
+    - [Primitive Progression](https://github.com/q4niel/Primitive-Progression/releases/tag/0.4.0)
+    - [Passive Regen](https://github.com/q4niel/Passive-Regen/releases/tag/0.0.1)
+    - [Mending Begone](https://github.com/q4niel/Mending-Begone/releases/tag/0.1.1)
+    - [Hunger Fix](https://github.com/q4niel/Hunger-Fix/releases/tag/0.1.0)
+    - [Nature's Cauldron](https://github.com/q4niel/Natures-Cauldron/releases/tag/0.2.0)
 - **Performance**
     - [Sodium](https://modrinth.com/mod/sodium/version/mc1.21.1-0.6.2-fabric)
 - **Dependencies**
