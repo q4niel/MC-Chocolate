@@ -9,7 +9,7 @@ This project does not include any assets themselves, but automates the process o
 
 2. **Download your Script**:
    Refer to each release's release notes for the specific functionality of the provided scripts.
-   You can download the scripts from the [releases section](https://github.com/yourusername/MCChocolate/releases).
+   You can download the scripts from the [releases section](https://github.com/q4niel/MC-Chocolate/releases).
    Please refer to the release notes for specific functionality and changes in each version.
 
 3. **Run your Script**:
