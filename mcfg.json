@@ -1,42 +1,60 @@
 {
     "version": "MC-Chocolate-0.0.0-1.21-Fabric",
     "datapacks": [
+        "https://cdn.modrinth.com/data/lWDHr9jE/versions/aLQ1otmd/tectonic-datapack-2.4.2.zip",
         "https://cdn.modrinth.com/data/hl5OLM95/versions/1ChFYVG4/Geophilic%20v3.1.4%20f15-57.zip",
         "https://cdn.modrinth.com/data/EEIwvQVo/versions/lMvNx9a5/tidal_1.3.4.zip",
+
         "https://cdn.modrinth.com/data/uXeEiQk1/versions/U2wZjVbY/tool-trims-DP-v2-2-2a.zip"
     ],
     "resourcepacks": [],
     "shaderpacks": [],
     "mods": {
         "client": [
-            "https://cdn.modrinth.com/data/QdG47OkI/versions/FUZo6yCk/modelfix-1.21-1.6-fabric.jar"
+            "https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar",
+            "https://cdn.modrinth.com/data/yBW8D80W/versions/iIqUfRsC/lambdynamiclights-3.1.3%2B1.21.1.jar",
+            "https://cdn.modrinth.com/data/QdG47OkI/versions/FUZo6yCk/modelfix-1.21-1.6-fabric.jar",
+
+            "https://cdn.modrinth.com/data/AANobbMI/versions/6b5IXmYv/sodium-fabric-0.6.2%2Bmc1.21.1.jar",
+
+            "https://cdn.modrinth.com/data/eXts2L7r/versions/cE5TczQr/placeholder-api-2.4.1%2B1.21.jar"
         ],
         "server": [
-            "https://cdn.modrinth.com/data/lhGA9TYQ/versions/NtU0dTSY/architectury-13.0.5-fabric.jar",
-            "https://cdn.modrinth.com/data/IYY9Siz8/versions/GuJVwwK1/jamlib-fabric-1.0.10%2B1.21.jar",
-            "https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar",
-
             "https://cdn.modrinth.com/data/AVq17PqV/versions/r96FcZia/LeavesBeGone-v21.0.0-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/Cnejf5xM/versions/4R1YFTOu/rightclickharvest-fabric-4.3.0%2B1.21.jar",
-            "https://cdn.modrinth.com/data/9IUlkb2K/versions/VRwAOcqG/cavespiderspawn-1.21.1-1.2.jar"
+            "https://cdn.modrinth.com/data/9IUlkb2K/versions/VRwAOcqG/cavespiderspawn-1.21.1-1.2.jar",
+            "https://cdn.modrinth.com/data/2OckSy74/versions/aiZEd0aD/Boids-1.2.3.jar",
+
+            "https://cdn.modrinth.com/data/lhGA9TYQ/versions/NtU0dTSY/architectury-13.0.5-fabric.jar",
+            "https://cdn.modrinth.com/data/IYY9Siz8/versions/GuJVwwK1/jamlib-fabric-1.0.10%2B1.21.jar",
+            "https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar"
         ],
         "dual": [
+            "https://cdn.modrinth.com/data/lsUDPMOT/versions/NToKa7WD/terrestria-7.0.1.jar",
+
+            "https://cdn.modrinth.com/data/kfqD1JRw/versions/2F4w4356/VisualWorkbench-v21.0.5-1.21-Fabric.jar",
+            "https://cdn.modrinth.com/data/OZBR5JT5/versions/DwKi5WSQ/EasyAnvils-v21.0.5-1.21-Fabric.jar",
+            "https://cdn.modrinth.com/data/9hx3AbJM/versions/lRBz0IRk/EasyMagic-v21.0.4-1.21-Fabric.jar",
+
+            "https://cdn.modrinth.com/data/IrrG0G8l/versions/oa649YLo/HorseBuff-1.21-2.1.8.jar",
+            "https://cdn.modrinth.com/data/ZK4bBM3B/versions/n6jm5bsF/more_babies-fabric-1.21-2.0.0.jar",
+            "https://cdn.modrinth.com/data/POQ2i9zu/versions/P8g07TQ8/friendsandfoes-fabric-mc1.21.1-3.0.6.jar",
+            "https://cdn.modrinth.com/data/dOGM7ccu/versions/XrZVRpEA/nyfsspiders-fabric-1.21-2.3.1.jar",
+            "https://cdn.modrinth.com/data/JiEhJ3WG/versions/7mUHEpdy/moremobvariants-fabric%2B1.21-1.3.1.1.jar",
+            "https://cdn.modrinth.com/data/lNDRiXkY/versions/Mu9p99MJ/variantsandventures-fabric-mc1.21.1-1.0.6.jar",
+
+            "https://cdn.modrinth.com/data/Guh4HXen/versions/PSzKjdem/ItemsDisplayed%20-%20v1.3-1.21.jar",
+            "https://cdn.modrinth.com/data/ykSfIgTw/versions/wBniNKdB/connectiblechains-2.4.2%2B1.21.1.jar",
+
+            "https://cdn.modrinth.com/data/e0bNACJD/versions/q8BN28TQ/SereneSeasons-fabric-1.21-10.0.0.6.jar",
+            "https://cdn.modrinth.com/data/AtB5mHky/versions/ACDTHBLF/watut-fabric-1.21.0-1.1.3.jar",
+
             "https://cdn.modrinth.com/data/P7dR8mSH/versions/oGwyXeEI/fabric-api-0.102.0%2B1.21.jar",
             "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
             "https://cdn.modrinth.com/data/QAGBst4M/versions/a5KN1w1N/PuzzlesLib-v21.0.28-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/ohNO6lps/versions/GOreNSW6/ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/rLLJ1OZM/versions/7e7u4VpL/coroutil-fabric-1.21.0-1.3.7.jar",
-
-            "https://cdn.modrinth.com/data/kfqD1JRw/versions/2F4w4356/VisualWorkbench-v21.0.5-1.21-Fabric.jar",
-            "https://cdn.modrinth.com/data/OZBR5JT5/versions/DwKi5WSQ/EasyAnvils-v21.0.5-1.21-Fabric.jar",
-            "https://cdn.modrinth.com/data/9hx3AbJM/versions/lRBz0IRk/EasyMagic-v21.0.4-1.21-Fabric.jar",
-            "https://cdn.modrinth.com/data/Guh4HXen/versions/PSzKjdem/ItemsDisplayed%20-%20v1.3-1.21.jar",
-            "https://cdn.modrinth.com/data/AtB5mHky/versions/ACDTHBLF/watut-fabric-1.21.0-1.1.3.jar",
-            "https://cdn.modrinth.com/data/IrrG0G8l/versions/oa649YLo/HorseBuff-1.21-2.1.8.jar",
-            "https://cdn.modrinth.com/data/ZK4bBM3B/versions/n6jm5bsF/more_babies-fabric-1.21-2.0.0.jar",
-            "https://cdn.modrinth.com/data/POQ2i9zu/versions/P8g07TQ8/friendsandfoes-fabric-mc1.21.1-3.0.6.jar",
-            "https://cdn.modrinth.com/data/dOGM7ccu/versions/XrZVRpEA/nyfsspiders-fabric-1.21-2.3.1.jar",
-            "https://cdn.modrinth.com/data/ykSfIgTw/versions/wBniNKdB/connectiblechains-2.4.2%2B1.21.1.jar"
+            "https://cdn.modrinth.com/data/s3dmwKy5/versions/2zGz6n4Q/GlitchCore-fabric-1.21-2.0.0.3.jar"
         ]
     }
 }
