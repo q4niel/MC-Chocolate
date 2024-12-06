@@ -39,6 +39,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Tidal Towns](https://modrinth.com/datapack/tidal-towns/version/lMvNx9a5)
 - **Quality of Life**:
     - [Mod Menu](https://modrinth.com/mod/modmenu/version/11.0.3)
+    - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.21.1-2.5.26)
     - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights/version/3.1.3+1.21.1)
     - [Model Gap Fix](https://modrinth.com/mod/modelfix/version/1.21-1.6)
     - [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone/version/v21.0.0-1.21-Fabric)
