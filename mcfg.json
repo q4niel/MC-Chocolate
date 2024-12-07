@@ -1,9 +1,7 @@
 {
     "name": "MC-Chocolate",
-    "version": "0.1.0-1.21-Fabric",
+    "version": "0.2.0-1.21-Fabric",
     "datapacks": [
-        "https://cdn.modrinth.com/data/lWDHr9jE/versions/aLQ1otmd/tectonic-datapack-2.4.2.zip",
-        "https://cdn.modrinth.com/data/hl5OLM95/versions/1ChFYVG4/Geophilic%20v3.1.4%20f15-57.zip",
         "https://cdn.modrinth.com/data/EEIwvQVo/versions/lMvNx9a5/tidal_1.3.4.zip",
 
         "https://cdn.modrinth.com/data/uXeEiQk1/versions/U2wZjVbY/tool-trims-DP-v2-2-2a.zip"
@@ -22,6 +20,11 @@
             "https://cdn.modrinth.com/data/eXts2L7r/versions/cE5TczQr/placeholder-api-2.4.1%2B1.21.jar"
         ],
         "server": [
+            "https://cdn.modrinth.com/data/lWDHr9jE/versions/mSYrCaov/tectonic-fabric-1.21.1-2.4.1a.jar",
+            "https://cdn.modrinth.com/data/8oi3bsk5/versions/lQreFvOm/Terralith_1.21.x_v2.5.7.jar",
+            "https://cdn.modrinth.com/data/hl5OLM95/versions/ahZqcuRr/Geophilic%20v3.1.4%20f15-57.jar",
+            "https://cdn.modrinth.com/data/qwvI41y9/versions/ID6CCvs6/sparsestructures-fabric-1.21-2.2.0.jar",
+
             "https://cdn.modrinth.com/data/AVq17PqV/versions/r96FcZia/LeavesBeGone-v21.0.0-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/Cnejf5xM/versions/4R1YFTOu/rightclickharvest-fabric-4.3.0%2B1.21.jar",
 
@@ -36,8 +39,6 @@
             "https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar"
         ],
         "dual": [
-            "https://cdn.modrinth.com/data/lsUDPMOT/versions/NToKa7WD/terrestria-7.0.1.jar",
-
             "https://cdn.modrinth.com/data/9eGKb6K1/versions/Fku4RjPN/voicechat-fabric-1.21.1-2.5.26.jar",
             "https://cdn.modrinth.com/data/kfqD1JRw/versions/2F4w4356/VisualWorkbench-v21.0.5-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/OZBR5JT5/versions/DwKi5WSQ/EasyAnvils-v21.0.5-1.21-Fabric.jar",

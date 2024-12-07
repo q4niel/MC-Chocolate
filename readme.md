@@ -33,10 +33,11 @@ Each asset is licensed under its respective license, so please refer to their of
 ## Official Asset Sources
 These scripts download assets from the following **official sources**. Visit the **links** for more details about each asset and its **licensing**.
 - **World Generation**:
-    - [Tectonic](https://modrinth.com/datapack/tectonic/version/aLQ1otmd)
-    - [Terrestria](https://modrinth.com/mod/terrestria/version/7.0.1)
-    - [Geophilic](https://modrinth.com/datapack/geophilic/version/3.1.4)
+    - [Tectonic](https://modrinth.com/datapack/tectonic/version/mSYrCaov)
+    - [Terralith](https://modrinth.com/datapack/terralith/version/lQreFvOm)
+    - [Geophilic](https://modrinth.com/datapack/geophilic/version/ahZqcuRr)
     - [Tidal Towns](https://modrinth.com/datapack/tidal-towns/version/lMvNx9a5)
+    - [Sparse Structures](https://modrinth.com/mod/sparsestructures/version/2.2)
 - **Quality of Life**:
     - [Mod Menu](https://modrinth.com/mod/modmenu/version/11.0.3)
     - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.21.1-2.5.26)
