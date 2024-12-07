@@ -59,6 +59,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Variants & Ventures](https://modrinth.com/mod/variants-and-ventures/version/fabric-mc1.21.1-1.0.6)
     - [Boids](https://modrinth.com/mod/boids/version/1.2.3)
     - [Flourishing Fields](https://github.com/q4niel/Flourishing-Fields/releases/tag/0.2.1)
+    - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves/version/4.0.1-fabric)
 - **Building**
     - [Items Displayed](https://modrinth.com/mod/items-displayed/version/1.3-1.21)
     - [Connectible Chains](https://modrinth.com/mod/connectiblechains/version/2.4.2+1.21.1)
@@ -71,10 +72,13 @@ These scripts download assets from the following **official sources**. Visit the
     - [Mending Begone](https://github.com/q4niel/Mending-Begone/releases/tag/0.1.1)
     - [Hunger Fix](https://github.com/q4niel/Hunger-Fix/releases/tag/0.1.0)
     - [Nature's Cauldron](https://github.com/q4niel/Natures-Cauldron/releases/tag/0.2.0)
+    - [Realistic Rowing](https://modrinth.com/mod/realistic-rowing/version/1.0.0)
+    - [Tide](https://modrinth.com/mod/tide/version/XPlM2MNe)
 - **Optimization**
     - [Sodium](https://modrinth.com/mod/sodium/version/mc1.21-0.5.9)
     - [Lithium](https://modrinth.com/mod/lithium/version/mc1.21-0.13.1)
     - [Entity Culling](https://modrinth.com/mod/entityculling/version/MQuJQtw8)
+    - [Clumps](https://modrinth.com/mod/clumps/version/18.0.0.2)
 - **Dependencies**
     - [Fabric API](https://modrinth.com/mod/fabric-api/version/0.102.0+1.21)
     - [Cloth Config API](https://modrinth.com/mod/cloth-config/version/15.0.140+fabric)
