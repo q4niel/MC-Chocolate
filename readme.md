@@ -60,7 +60,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [More Mob Variants](https://modrinth.com/mod/more-mob-variants/version/1.3.1.1)
     - [Variants & Ventures](https://modrinth.com/mod/variants-and-ventures/version/fabric-mc1.21.1-1.0.6)
     - [Boids](https://modrinth.com/mod/boids/version/1.2.3)
-    - [Flourishing Fields](https://github.com/q4niel/Flourishing-Fields/releases/tag/0.2.1)
+    - [Flourishing Fields](https://modrinth.com/mod/flourishing-fields/version/0.2.1-1.21-Fabric)
     - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves/version/4.0.1-fabric)
     - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul/version/LvGcZBEq)
 - **Building**
@@ -69,12 +69,12 @@ These scripts download assets from the following **official sources**. Visit the
 - **Quirks**
     - [Serene Seasons](https://modrinth.com/mod/serene-seasons/version/q8BN28TQ)
     - [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to/version/1.21.0-1.1.3)
-    - [Elytra Burn](https://github.com/q4niel/Elytra-Burn/releases/tag/0.0.1)
-    - [Primitive Progression](https://github.com/q4niel/Primitive-Progression/releases/tag/0.4.0)
-    - [Passive Regen](https://github.com/q4niel/Passive-Regen/releases/tag/0.0.1)
-    - [Mending Begone](https://github.com/q4niel/Mending-Begone/releases/tag/0.1.1)
-    - [Hunger Fix](https://github.com/q4niel/Hunger-Fix/releases/tag/0.1.0)
-    - [Nature's Cauldron](https://github.com/q4niel/Natures-Cauldron/releases/tag/0.2.0)
+    - [Elytra Burn](https://modrinth.com/mod/elytra-burn/version/0.0.1-1.21-Fabric)
+    - [Primitive Progression](https://modrinth.com/mod/primitive-progression/version/0.4.0-1.21-Fabric)
+    - [Passive Regen](https://modrinth.com/mod/passive-regen/version/0.0.1-1.21-Fabric)
+    - [Mending Begone](https://modrinth.com/mod/mending-begone/version/0.1.1-1.21-Fabric)
+    - [Hunger Fix](https://modrinth.com/mod/hunger-fix/version/0.2.0-1.21-Fabric)
+    - [Nature's Cauldron](https://modrinth.com/mod/natures-cauldron/version/0.2.0-1.21-Fabric)
     - [Realistic Rowing](https://modrinth.com/mod/realistic-rowing/version/1.0.0)
     - [Tide](https://modrinth.com/mod/tide/version/XPlM2MNe)
 - **Optimization**
