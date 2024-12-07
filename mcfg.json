@@ -1,6 +1,6 @@
 {
     "name": "MC-Chocolate",
-    "version": "0.0.0-1.21-Fabric",
+    "version": "0.1.0-1.21-Fabric",
     "datapacks": [
         "https://cdn.modrinth.com/data/lWDHr9jE/versions/aLQ1otmd/tectonic-datapack-2.4.2.zip",
         "https://cdn.modrinth.com/data/hl5OLM95/versions/1ChFYVG4/Geophilic%20v3.1.4%20f15-57.zip",
@@ -16,7 +16,7 @@
             "https://cdn.modrinth.com/data/yBW8D80W/versions/iIqUfRsC/lambdynamiclights-3.1.3%2B1.21.1.jar",
             "https://cdn.modrinth.com/data/QdG47OkI/versions/FUZo6yCk/modelfix-1.21-1.6-fabric.jar",
 
-            "https://cdn.modrinth.com/data/AANobbMI/versions/6b5IXmYv/sodium-fabric-0.6.2%2Bmc1.21.1.jar",
+            "https://cdn.modrinth.com/data/AANobbMI/versions/dNHeFokL/sodium-fabric-0.5.9%2Bmc1.21.jar",
             "https://cdn.modrinth.com/data/NNAgCjsB/versions/MQuJQtw8/entityculling-fabric-1.7.2-mc1.21.jar",
 
             "https://cdn.modrinth.com/data/eXts2L7r/versions/cE5TczQr/placeholder-api-2.4.1%2B1.21.jar"

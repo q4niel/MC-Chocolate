@@ -71,7 +71,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Hunger Fix](https://github.com/q4niel/Hunger-Fix/releases/tag/0.1.0)
     - [Nature's Cauldron](https://github.com/q4niel/Natures-Cauldron/releases/tag/0.2.0)
 - **Optimization**
-    - [Sodium](https://modrinth.com/mod/sodium/version/mc1.21.1-0.6.2-fabric)
+    - [Sodium](https://modrinth.com/mod/sodium/version/mc1.21-0.5.9)
     - [Lithium](https://modrinth.com/mod/lithium/version/mc1.21-0.13.1)
     - [Entity Culling](https://modrinth.com/mod/entityculling/version/MQuJQtw8)
 - **Dependencies**
