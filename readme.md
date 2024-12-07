@@ -40,6 +40,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Sparse Structures](https://modrinth.com/mod/sparsestructures/version/2.2)
 - **Quality of Life**:
     - [Mod Menu](https://modrinth.com/mod/modmenu/version/11.0.3)
+    - [Just Enough Items](https://modrinth.com/mod/jei/version/19.21.0.247)
     - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.21.1-2.5.26)
     - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights/version/3.1.3+1.21.1)
     - [Model Gap Fix](https://modrinth.com/mod/modelfix/version/1.21-1.6)
@@ -49,6 +50,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Visual Workbench](https://modrinth.com/mod/visual-workbench/version/v21.0.5-1.21-Fabric)
     - [Easy Anvils](https://modrinth.com/mod/easy-anvils/version/v21.0.5-1.21-Fabric)
     - [Easy Magic](https://modrinth.com/mod/easy-magic/version/v21.0.4-1.21-Fabric)
+    - [You're in Grave Danger](https://modrinth.com/mod/yigd/version/2.4.11)
 - **Mobs**:
     - [Horse Buff](https://modrinth.com/mod/horsebuff/version/2.1.8)
     - [Cave Spider Spawn](https://modrinth.com/mod/cave-spider-spawn/version/1.21.1-1.2-fabric+forge+neo)
@@ -60,6 +62,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Boids](https://modrinth.com/mod/boids/version/1.2.3)
     - [Flourishing Fields](https://github.com/q4niel/Flourishing-Fields/releases/tag/0.2.1)
     - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves/version/4.0.1-fabric)
+    - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul/version/LvGcZBEq)
 - **Building**
     - [Items Displayed](https://modrinth.com/mod/items-displayed/version/1.3-1.21)
     - [Connectible Chains](https://modrinth.com/mod/connectiblechains/version/2.4.2+1.21.1)
@@ -90,3 +93,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Collective](https://modrinth.com/mod/collective/version/1.21.1-7.87-fabric+forge+neo)
     - [CoroUtil](https://modrinth.com/mod/coroutil/version/1.21.0-1.3.7)
     - [GlitchCore](https://modrinth.com/mod/glitchcore/version/2zGz6n4Q)
+    - [Geckolib](https://modrinth.com/mod/geckolib/version/4.5.8)
+    - [Resourceful Lib](https://modrinth.com/mod/resourceful-lib/version/qhDtAMev)
+    - [Resourceful Config](https://modrinth.com/mod/resourceful-config/version/dOnnWty6)
+    - [Polymer](https://modrinth.com/mod/polymer/version/0.9.9+1.21)
