@@ -96,4 +96,3 @@ These scripts download assets from the following **official sources**. Visit the
     - [Geckolib](https://modrinth.com/mod/geckolib/version/4.5.8)
     - [Resourceful Lib](https://modrinth.com/mod/resourceful-lib/version/qhDtAMev)
     - [Resourceful Config](https://modrinth.com/mod/resourceful-config/version/dOnnWty6)
-    - [Polymer](https://modrinth.com/mod/polymer/version/0.9.9+1.21)

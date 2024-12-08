@@ -1,6 +1,6 @@
 {
     "name": "MC-Chocolate",
-    "version": "0.4.0-1.21-Fabric",
+    "version": "0.5.0-1.21-Fabric",
     "datapacks": [
         "https://cdn.modrinth.com/data/EEIwvQVo/versions/lMvNx9a5/tidal_1.3.4.zip",
 
@@ -29,7 +29,6 @@
 
             "https://cdn.modrinth.com/data/AVq17PqV/versions/r96FcZia/LeavesBeGone-v21.0.0-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/Cnejf5xM/versions/4R1YFTOu/rightclickharvest-fabric-4.3.0%2B1.21.jar",
-            "https://cdn.modrinth.com/data/HnD1GX6e/versions/eSYXte6X/youre-in-grave-danger-fabric-2.4.11.jar",
 
             "https://cdn.modrinth.com/data/9IUlkb2K/versions/VRwAOcqG/cavespiderspawn-1.21.1-1.2.jar",
             "https://cdn.modrinth.com/data/2OckSy74/versions/aiZEd0aD/Boids-1.2.3.jar",
@@ -39,8 +38,7 @@
 
             "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar",
             "https://cdn.modrinth.com/data/IYY9Siz8/versions/GuJVwwK1/jamlib-fabric-1.0.10%2B1.21.jar",
-            "https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar",
-            "https://cdn.modrinth.com/data/xGdtZczs/versions/p33F2gAj/polymer-bundled-0.9.9%2B1.21.jar"
+            "https://cdn.modrinth.com/data/e0M1UDsY/versions/nwmUrrgY/collective-1.21.1-7.87.jar"
         ],
         "dual": [
             "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Ni0ejaDO/jei-1.21.1-fabric-19.21.0.247.jar",
@@ -48,6 +46,7 @@
             "https://cdn.modrinth.com/data/kfqD1JRw/versions/2F4w4356/VisualWorkbench-v21.0.5-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/OZBR5JT5/versions/DwKi5WSQ/EasyAnvils-v21.0.5-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/9hx3AbJM/versions/lRBz0IRk/EasyMagic-v21.0.4-1.21-Fabric.jar",
+            "https://cdn.modrinth.com/data/HnD1GX6e/versions/eSYXte6X/youre-in-grave-danger-fabric-2.4.11.jar",
 
             "https://cdn.modrinth.com/data/IrrG0G8l/versions/oa649YLo/HorseBuff-1.21-2.1.8.jar",
             "https://cdn.modrinth.com/data/ZK4bBM3B/versions/n6jm5bsF/more_babies-fabric-1.21-2.0.0.jar",
