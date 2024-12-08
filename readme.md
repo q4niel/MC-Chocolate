@@ -72,7 +72,7 @@ These scripts download assets from the following **official sources**. Visit the
     - [Elytra Burn](https://modrinth.com/mod/elytra-burn/version/0.0.1-1.21-Fabric)
     - [Primitive Progression](https://modrinth.com/mod/primitive-progression/version/0.4.0-1.21-Fabric)
     - [Passive Regen](https://modrinth.com/mod/passive-regen/version/0.0.1-1.21-Fabric)
-    - [Mending Begone](https://modrinth.com/mod/mending-begone/version/0.1.1-1.21-Fabric)
+    - [Mending Begone](https://github.com/q4niel/Mending-Begone/releases/tag/0.2.0)
     - [Hunger Fix](https://modrinth.com/mod/hunger-fix/version/0.2.0-1.21-Fabric)
     - [Nature's Cauldron](https://modrinth.com/mod/natures-cauldron/version/0.2.0-1.21-Fabric)
     - [Realistic Rowing](https://modrinth.com/mod/realistic-rowing/version/1.0.0)

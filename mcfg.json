@@ -1,6 +1,6 @@
 {
     "name": "MC-Chocolate",
-    "version": "0.5.0-1.21-Fabric",
+    "version": "0.6.0-1.21-Fabric",
     "datapacks": [
         "https://cdn.modrinth.com/data/EEIwvQVo/versions/lMvNx9a5/tidal_1.3.4.zip",
 
@@ -65,7 +65,7 @@
             "https://cdn.modrinth.com/data/NPhRGc0I/versions/vD9UCVUe/Elytra-Burn-0.0.1-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/3TAMKR4c/versions/B7bMLFSo/Primitive-Progression-0.4.0-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/1IvA7stG/versions/4FcXip0Q/Passive-Regen-0.0.1-1.21-Fabric.jar",
-            "https://cdn.modrinth.com/data/2LNuIqxJ/versions/yPL1Nm0B/Mending-Begone-0.1.1-1.21-Fabric.jar",
+            "https://github.com/q4niel/Mending-Begone/releases/download/0.2.0/Mending-Begone-0.2.0-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/7DSbwEBH/versions/MuZ6YmgA/Hunger-Fix-0.2.0-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/Vh2lMRQk/versions/WJOgdAPy/Natures-Cauldron-0.2.0-1.21-Fabric.jar",
             "https://cdn.modrinth.com/data/die1AF7i/versions/XPlM2MNe/tide-fabric-1.21-1.3.4.jar",
