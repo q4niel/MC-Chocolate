@@ -65,7 +65,7 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Serene Seasons](https://modrinth.com/mod/serene-seasons/version/q8BN28TQ)
     - [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to/version/1.21.0-1.1.3)
     - [Elytra Burn](https://modrinth.com/mod/elytra-burn/version/0.0.1-1.21-Fabric)
-    - [Primitive Progression](https://modrinth.com/mod/primitive-progression/version/0.4.0-1.21-Fabric)
+    - [Primitive Progression](https://modrinth.com/mod/primitive-progression/version/0.5.0-1.21-Fabric)
     - [Passive Regen](https://modrinth.com/mod/passive-regen/version/0.0.1-1.21-Fabric)
     - [Mending Begone](https://github.com/q4niel/Mending-Begone/releases/tag/0.2.0)
     - [Hunger Fix](https://modrinth.com/mod/hunger-fix/version/0.2.0-1.21-Fabric)
