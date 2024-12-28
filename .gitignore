@@ -1,2 +1,6 @@
-mcfg
-MC-Chocolate*/
+*
+
+!.gitattributes
+!.gitignore
+!mcfg.json
+!readme.md
