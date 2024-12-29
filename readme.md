@@ -33,6 +33,7 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Geophilic](https://modrinth.com/datapack/geophilic/version/ahZqcuRr)
     - [Tidal Towns](https://modrinth.com/datapack/tidal-towns/version/lMvNx9a5)
     - [Sparse Structures](https://modrinth.com/mod/sparsestructures/version/2.2)
+    - [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns/version/v4.4.4+mod)
 - **Quality of Life**:
     - [Mod Menu](https://modrinth.com/mod/modmenu/version/11.0.3)
     - [Just Enough Items](https://modrinth.com/mod/jei/version/19.21.0.247)
