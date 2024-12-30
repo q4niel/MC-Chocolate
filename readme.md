@@ -40,7 +40,6 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.21.1-2.5.26)
     - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights/version/3.1.3+1.21.1)
     - [Model Gap Fix](https://modrinth.com/mod/modelfix/version/1.21-1.6)
-    - [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone/version/v21.0.0-1.21-Fabric)
     - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest/version/4R1YFTOu)
     - [Tool Trims](https://modrinth.com/datapack/tool-trims/version/2.2.2)
     - [Visual Workbench](https://modrinth.com/mod/visual-workbench/version/v21.0.5-1.21-Fabric)
@@ -48,7 +47,11 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Easy Magic](https://modrinth.com/mod/easy-magic/version/v21.0.4-1.21-Fabric)
     - [You're in Grave Danger](https://modrinth.com/mod/yigd/version/2.4.11)
     - [Carry On](https://modrinth.com/mod/carry-on/version/2.2.1)
+    - [Hand Over Your Items](https://modrinth.com/mod/hand-over-your-items/version/1.21.1-3.5-fabric+forge+neo)
+    - [Thorny Bush Protection](https://modrinth.com/mod/thorny-bush-protection/version/1.21.1-1.4-fabric+forge+neo)
 - **Mobs**:
+    - [Villager Names](https://modrinth.com/mod/villager-names-serilum/version/1.21.1-8.1-fabric+forge+neo)
+    - [Piglin Names](https://modrinth.com/mod/piglin-names/version/1.21.1-1.1-fabric+forge+neo)
     - [Horse Buff](https://modrinth.com/mod/horsebuff/version/2.1.8)
     - [Cave Spider Spawn](https://modrinth.com/mod/cave-spider-spawn/version/1.21.1-1.2-fabric+forge+neo)
     - [More Babies](https://modrinth.com/mod/more-babies/version/2.0.0-1.21-fabric)
@@ -61,6 +64,7 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves/version/4.0.1-fabric)
     - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul/version/LvGcZBEq)
     - [Guard Villagers](https://modrinth.com/mod/guard-villagers-(fabricquilt)/version/2.1.2-1.21)
+    - [Bogged Spawn](https://modrinth.com/mod/bogged-spawn/version/1.21.1-1.1-fabric+forge+neo)
 - **Building**
     - [Items Displayed](https://modrinth.com/mod/items-displayed/version/1.3-1.21)
     - [Connectible Chains](https://modrinth.com/mod/connectiblechains/version/2.4.2+1.21.1)
@@ -78,6 +82,8 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Genshin Instruments](https://modrinth.com/mod/genshin-instruments/version/fabric-1.21+1.21.1-4.0.2)
     - [Sit!](https://modrinth.com/mod/sit!/version/1.2.0+1.21-1.21.1)
     - [Realistic Campfires](https://modrinth.com/mod/realistic-campfires/version/3.1.2+1.21)
+    - [Healing Campfire](https://modrinth.com/mod/healing-campfire/version/1.21.1-6.1-fabric+forge+neo)
+    - [Tree Harvester](https://modrinth.com/mod/tree-harvester/version/1.21.1-9.1-fabric+forge+neo)
 - **Optimization**
     - [Sodium](https://modrinth.com/mod/sodium/version/mc1.21-0.5.9)
     - [Lithium](https://modrinth.com/mod/lithium/version/mc1.21-0.13.1)
