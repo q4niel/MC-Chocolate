@@ -60,7 +60,7 @@ The program downloads assets from the following **official sources**. Visit the 
     - [More Mob Variants](https://modrinth.com/mod/more-mob-variants/version/1.3.1.1)
     - [Variants & Ventures](https://modrinth.com/mod/variants-and-ventures/version/fabric-mc1.21.1-1.0.6)
     - [Boids](https://modrinth.com/mod/boids/version/1.2.3)
-    - [Flourishing Fields](https://modrinth.com/mod/flourishing-fields/version/0.2.1-1.21-Fabric)
+    - [Flourishing Fields](https://modrinth.com/mod/flourishing-fields/version/0.3.0-1.21-Fabric)
     - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves/version/4.0.1-fabric)
     - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul/version/LvGcZBEq)
     - [Guard Villagers](https://modrinth.com/mod/guard-villagers-(fabricquilt)/version/2.1.2-1.21)
