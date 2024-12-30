@@ -47,6 +47,7 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Easy Anvils](https://modrinth.com/mod/easy-anvils/version/v21.0.5-1.21-Fabric)
     - [Easy Magic](https://modrinth.com/mod/easy-magic/version/v21.0.4-1.21-Fabric)
     - [You're in Grave Danger](https://modrinth.com/mod/yigd/version/2.4.11)
+    - [Carry On](https://modrinth.com/mod/carry-on/version/2.2.1)
 - **Mobs**:
     - [Horse Buff](https://modrinth.com/mod/horsebuff/version/2.1.8)
     - [Cave Spider Spawn](https://modrinth.com/mod/cave-spider-spawn/version/1.21.1-1.2-fabric+forge+neo)
@@ -59,6 +60,7 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Flourishing Fields](https://modrinth.com/mod/flourishing-fields/version/0.2.1-1.21-Fabric)
     - [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves/version/4.0.1-fabric)
     - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul/version/LvGcZBEq)
+    - [Guard Villagers](https://modrinth.com/mod/guard-villagers-(fabricquilt)/version/2.1.2-1.21)
 - **Building**
     - [Items Displayed](https://modrinth.com/mod/items-displayed/version/1.3-1.21)
     - [Connectible Chains](https://modrinth.com/mod/connectiblechains/version/2.4.2+1.21.1)
@@ -73,6 +75,9 @@ The program downloads assets from the following **official sources**. Visit the 
     - [Nature's Cauldron](https://modrinth.com/mod/natures-cauldron/version/0.2.0-1.21-Fabric)
     - [Realistic Rowing](https://modrinth.com/mod/realistic-rowing/version/1.0.0)
     - [Tide](https://modrinth.com/mod/tide/version/XPlM2MNe)
+    - [Genshin Instruments](https://modrinth.com/mod/genshin-instruments/version/fabric-1.21+1.21.1-4.0.2)
+    - [Sit!](https://modrinth.com/mod/sit!/version/1.2.0+1.21-1.21.1)
+    - [Realistic Campfires](https://modrinth.com/mod/realistic-campfires/version/3.1.2+1.21)
 - **Optimization**
     - [Sodium](https://modrinth.com/mod/sodium/version/mc1.21-0.5.9)
     - [Lithium](https://modrinth.com/mod/lithium/version/mc1.21-0.13.1)
