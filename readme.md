@@ -64,7 +64,7 @@ The program downloads assets from the following **official sources**. Visit the 
 - **Building**
     - [Items Displayed](https://modrinth.com/mod/items-displayed/version/1.3-1.21)
     - [Connectible Chains](https://modrinth.com/mod/connectiblechains/version/2.4.2+1.21.1)
-- **Quirks**
+- **Mechanics**
     - [Serene Seasons](https://modrinth.com/mod/serene-seasons/version/q8BN28TQ)
     - [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to/version/1.21.0-1.1.3)
     - [Elytra Burn](https://modrinth.com/mod/elytra-burn/version/0.0.1-1.21-Fabric)
